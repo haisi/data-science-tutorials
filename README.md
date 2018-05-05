@@ -1,7 +1,21 @@
-# Data Science Tutorials
-- Phrase2Vec - Embeddings for phrases [ [article](http://kavita-ganesan.com/how-to-generate-phrase-embeddings-using-word2vec-in-3-easy-steps/) ] [ [Phrase Extraction](https://github.com/kavgan/phrase-at-scale) ] 
-- [Word2Vec - Full Working Example](word2vec/) [ [article](http://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code/) ]
-- [Reading files and word count with Spark](spark_wordcount/) [ [article](http://kavita-ganesan.com/reading-csv-and-json-files-in-spark/) ]
+# Navigate
 
-# Contact 
-This repository is maintained by [Kavita Ganesan](http://www.kavita-ganesan.com). Please contact me directly if you have questions.
+- [Word2Vec Tutorial Notebook](Word2Vec.ipynb)
+- [Working Word2Vec python scripts](scripts/)
+- [OpinRank Word2Vec dataset](reviews_data.txt.gz)
+
+
+# Running the Word2Vec Tutorial Notebook
+1. From the command line, first, clone this repo.
+```
+git clone <this repo url>
+```
+2. Next, switch to the word2vec directory of this repo.
+```
+cd  /<path-to-cloned-repo>/data-science/word2vec
+```
+3. Then, run jupyter notebook
+```
+jupyter notebook
+```
+4. Select Word2Vec.ipynb, sip a cup of coffee and enjoy! You can now re-run the cells.
