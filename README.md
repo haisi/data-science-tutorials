@@ -1,21 +1,14 @@
-# Navigate
+GloVe & Word2Vec Presentation
+====
 
-- [Word2Vec Tutorial Notebook](Word2Vec.ipynb)
-- [Working Word2Vec python scripts](scripts/)
-- [OpinRank Word2Vec dataset](reviews_data.txt.gz)
+By Hasan Kara & Patrick Burkhalter.  
+
+Used for the NLP course at FHNW Windisch.  
 
 
-# Running the Word2Vec Tutorial Notebook
-1. From the command line, first, clone this repo.
-```
-git clone <this repo url>
-```
-2. Next, switch to the word2vec directory of this repo.
-```
-cd  /<path-to-cloned-repo>/data-science/word2vec
-```
-3. Then, run jupyter notebook
-```
-jupyter notebook
-```
-4. Select Word2Vec.ipynb, sip a cup of coffee and enjoy! You can now re-run the cells.
+For Glove and Word2Vec:  
+
+1. Train Model  
+1. Save and Load Model  
+1. Make some predictions on the dictionary  
+1. Visualize the cluster
